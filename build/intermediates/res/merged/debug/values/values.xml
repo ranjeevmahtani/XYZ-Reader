@@ -49,6 +49,8 @@
     <color name="color_primary">#2196F3</color>
     <color name="color_primary_dark">#1976D2</color>
     <color name="color_primary_light">#BBDEFB</color>
+    <color name="color_primary_text">#212121</color>
+    <color name="color_secondary_text">#727272</color>
     <!-- From: file:/Users/ranjeevmahtani/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <color name="design_fab_shadow_end_color">@android:color/transparent</color>
